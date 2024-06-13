@@ -1,7 +1,7 @@
 const products = [
   {
     id: 1,
-    img: "/src/assets/product01.png",
+    img: "src/assets/product01.png",
     description:
       "Aliquam congue nisl ele ac ligula convallis, luctus blandit augue.",
     price: 582.9,
@@ -9,7 +9,7 @@ const products = [
   },
   {
     id: 2,
-    img: "/src/assets/product02.png",
+    img: "src/assets/product02.png",
     description:
       "Aliquam congue nisl ele ac ligula convallis, luctus blandit augue.",
     price: 582.9,
@@ -17,7 +17,7 @@ const products = [
   },
   {
     id: 3,
-    img: "/src/assets/product03.png",
+    img: "src/assets/product03.png",
     description:
       "Aliquam congue nisl ele ac ligula convallis, luctus blandit augue.",
     price: 582.9,
@@ -25,7 +25,7 @@ const products = [
   },
   {
     id: 4,
-    img: "/src/assets/product04.png",
+    img: "src/assets/product04.png",
     description:
       "Aliquam congue nisl ele ac ligula convallis, luctus blandit augue.",
     price: 582.9,
