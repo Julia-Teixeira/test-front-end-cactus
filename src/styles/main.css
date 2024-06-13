@@ -1,0 +1,21 @@
+#mosaic{
+    margin-top: 156px;
+}
+
+#mosaic-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    gap: 28px;
+}
+#mosaic-content img{
+    width: 100%;
+}
+.mosaic-section{
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    height: 100%;
+}
+
